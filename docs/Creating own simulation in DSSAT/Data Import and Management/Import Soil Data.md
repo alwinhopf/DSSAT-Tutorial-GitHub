@@ -11,15 +11,12 @@ Enter country, location, code --> Next
 
 ![[DSSAT-Tutorial-GitHub/src/site/img/user/Pasted image 20231114235627.png]]
 
-![[Pasted image 20231114235627.png]
-
 ![[Pasted image 20231114235631.png]]
 
 Click “Add Layer” for each layer you have, specify depth, % etc. “More Inputs” for further parameters. Leave empty is parameter is not measured/known à “Next”, insert further values if known or “Calculate missing values” à Finish
 
-Profile à Save as à Specify name (e.g. UFLO220001) à OK
-
-à Profile->Close à File->Save à File->Exit
+Profile --> Save as -->  Specify name (e.g. UFLO220001) --> OK
+ --> Profile->Close --> File->Save File->Exit
 
 Back in DSSAT Menu: à Update LST Files
 
