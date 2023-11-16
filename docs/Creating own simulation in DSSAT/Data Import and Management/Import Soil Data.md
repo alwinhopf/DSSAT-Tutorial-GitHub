@@ -11,6 +11,8 @@ Enter country, location, code --> Next
 
 ![[Pasted image 20231114235627.png]]
 
+![[Pasted image 20231114235627.png]
+
 ![[Pasted image 20231114235631.png]]
 
 Click “Add Layer” for each layer you have, specify depth, % etc. “More Inputs” for further parameters. Leave empty is parameter is not measured/known à “Next”, insert further values if known or “Calculate missing values” à Finish
