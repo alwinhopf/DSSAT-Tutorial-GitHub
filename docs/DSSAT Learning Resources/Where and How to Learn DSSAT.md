@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Where to learn DSSAT? 
 
