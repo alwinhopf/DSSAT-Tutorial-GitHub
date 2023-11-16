@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 _Note: This process takes almost the same effort for single vs. multiple years. If you plan on doing multi-year analysis, e.g., seasonal analysis with 30+ years, it would be useful to import all weather data at once. Some python/R solution exist that can automate the creation and import of large quantities of weather data in DSSAT.
 

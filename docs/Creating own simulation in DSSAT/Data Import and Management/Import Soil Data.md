@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Two approaches: 
 a) detailed soil profile (measures for %sand, clay, loam, different depths etc.) or 
