@@ -1,3 +1,3 @@
 # Note 1
 
-Example: link to [[Mermaid Diagrams]] under `Features`
+Example: link to [[DSSAT-Tutorial/docs/Features/Mermaid Diagrams]] under `Features`
