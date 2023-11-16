@@ -10,7 +10,7 @@ General information about DSSAT can be found on the [DSSAT Website](https://dssa
 This tutorial is built using [mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs) with Obsidian and GitHub Pages. 
 
 #### DSSAT Installation
-General users can install the regular version of DSSAT with a graphical user interface: [[DSSAT-Tutorial-GitHub/docs/DSSAT Setup/Installation of DSSAT GUI]]
+General users can install the regular version of DSSAT with a graphical user interface: [[DSSAT-Tutorial-GitHub/docs/DSSAT Setup/Installation of DSSAT GUI|Installation of DSSAT GUI]]
 
 If you want to run DSSAT on a non-Windows system, via the command line, or read and edit the source code, you need to install the "Developer Version": [[DSSAT-Tutorial-GitHub/docs/DSSAT Setup/Installation of DSSAT Developer Version]]
 
