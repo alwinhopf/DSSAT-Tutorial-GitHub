@@ -9,7 +9,16 @@ If the objective of your modeling is strongly soil type dependent (e.g. nitrogen
 DSSAT: Soil Data --> Profile --> New. 
 Enter country, location, code --> Next
 
+test3
 ![[DSSAT-Tutorial-GitHub/src/site/img/user/Pasted image 20231114235627.png]]
+
+test4
+![Pasted image 20231114235627](../../../../Pasted%20image%2020231114235627.png)
+
+![/img/user/Pasted image 20231114235627.png](/img/user/Pasted%20image%2020231114235627.png)
+
+test5
+![Pasted image 20231114235627](../../../src/site/img/user/Pasted%20image%2020231114235627.png)
 
 ![[Pasted image 20231114235631.png]]
 
