@@ -6,7 +6,7 @@ dg-home: true
 # Welcome to the DSSAT Tutorial
 
 
-![bus1](../src/site/img/bus1.jpeg)
+![bus1](Topic/bus1.jpeg)
 bus below
 
 ![](../../bus1.jpeg)
