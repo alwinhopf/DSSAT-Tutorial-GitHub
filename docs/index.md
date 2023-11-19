@@ -26,8 +26,7 @@ If you want to run DSSAT on a non-Windows system, via the command line, or read 
 
 ## Running a reference simulation in DSSAT
 
-[Overview about a DSSAT Simulation](../src/site/notes/DSSAT-Tutorial-GitHub/docs/Creating%20and%20Running%20a%20DSSAT%20Simulation/Overview%20about%20a%20DSSAT%20Simulation.md)
-
+[Overview about a DSSAT Simulation](Creating%20and%20Running%20a%20DSSAT%20Simulation/Overview%20about%20a%20DSSAT%20Simulation.md)
 Visualizing and analyzing simulation outputs in DSSAT
 
 
@@ -44,9 +43,9 @@ Understanding and editing management options
 
 ### Importing your own data
 
-[Import Soil Data](../src/site/notes/DSSAT-Tutorial-GitHub/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Soil%20Data.md)
+[Import Soil Data](Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Soil%20Data.md)
 
-[Import Weather Data](../src/site/notes/DSSAT-Tutorial-GitHub/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Weather%20Data.md)
+[Import Weather Data](Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Weather%20Data.md)
 
 
 Importing Observations (ground-truth data)
