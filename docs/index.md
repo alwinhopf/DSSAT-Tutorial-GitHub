@@ -30,7 +30,6 @@ If you want to run DSSAT on a non-Windows system, via the command line, or read 
 
 Visualizing and analyzing simulation outputs in DSSAT
 
-Visualizing outputs in R-Studio ('DSSAT' package)
 
 
 ### Editing a reference simulation in DSSAT
@@ -45,9 +44,10 @@ Understanding and editing management options
 
 ### Importing your own data
 
-[Import Soil Data](../src/site/notes/DSSAT-Tutorial/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Soil%20Data.md)
+[Import Soil Data](../src/site/notes/DSSAT-Tutorial-GitHub/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Soil%20Data.md)
 
-[Import Weather Data](../src/site/notes/DSSAT-Tutorial/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Weather%20Data.md)
+[Import Weather Data](../src/site/notes/DSSAT-Tutorial-GitHub/docs/Creating%20own%20simulation%20in%20DSSAT/Data%20Import%20and%20Management/Import%20Weather%20Data.md)
+
 
 Importing Observations (ground-truth data)
 
@@ -58,6 +58,15 @@ Importing Observations (ground-truth data)
 
 
 ### Calibrating a new crop or dataset
+
+
+#### Tools for DSSAT
+
+Visualizing outputs in R-Studio ('DSSAT' package)
+
+Spatial simulations
+
+
 
 
 
