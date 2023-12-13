@@ -43,13 +43,12 @@ If you want to run DSSAT on a non-Windows system, via the command line, or read 
 
 [Adding new crop in DSSAT GUI](Setup%20Custom%20Simulation/Adding%20new%20crop%20in%20DSSAT%20GUI.md)
 
-
-### Calibrating a new crop or dataset
+[Parameterizing and calibrating a new crop](Setup%20Custom%20Simulation/Parameterizing%20and%20calibrating%20a%20new%20crop.md)
 
 
 ## Tools for DSSAT
 
-Visualizing outputs in R-Studio ('DSSAT' package)
+[Visualizing outputs in R-Studio](Setup%20Custom%20Simulation/Visualizing%20outputs%20in%20R-Studio.md)
 
 Spatial simulations
 

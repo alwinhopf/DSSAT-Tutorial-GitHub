@@ -2,7 +2,7 @@ This is a recommended step before, but you might find a more suitable way for yo
 
 ![](Pasted%20image%2020231119010140.png)
 
-Open DSSAT à Experimental Data under “Tools” on left side. ATCreate window will open.
+Open DSSAT → Experimental Data under “Tools” on left side. ATCreate window will open.
 
 Click on “Edit File Header”. Specify experiment name, crop and description. Select if File A or File T, press OK.
 ![](Pasted%20image%2020231119010132.png)

@@ -7,7 +7,7 @@ Download weather data from your source, e.g. FAWN. Make sure to include these co
 ![[Pasted image 20231114234151.png]]
 
 
-Open DSSAT -> Weather Data (left side of menu)
+Open DSSAT → Weather Data (left side of menu)
 
 New Station
 
@@ -35,7 +35,7 @@ Click Save. Specify location and altitude, click OK (bottom right) once filled.
   ![[Pasted image 20231114234057.png]]
   
 
-Loading might take few seconds or longer, depending on volume and length of weather data. Weather station overview will appear, double-check. Change 4-digit short code into more descriptive name, e.g. “Hastings, Florida, USA”. Click “Update” at bottom.
+Loading might take few seconds or longer, depending on volume and length of weather data. Weather station overview will appear, double-check. Change 4-digit short code into a more descriptive name, e.g. “Hastings, Florida, USA”. Click “Update” at bottom.
 ![[Pasted image 20231114234043.png]]
 Click on save button (diskette) to export files via “Write Files”. This weather station and data is now available for simulations in DSSAT. Close WeatherMan window.
 
@@ -43,10 +43,10 @@ Click on save button (diskette) to export files via “Write Files”. This weat
 
 Check via explorer or file manager that your new files (identified by short code, UFHA) are there in your DSSAT/Weather folder
 
-Update weather list in main DSSAT window via “File” --> “Update all List Files”
+Update weather list in main DSSAT window via “File” → “Update all List Files”
 ![[Pasted image 20231114234335.png]]
 
-Select Experiment, Edit experiment, click “File” --> “Refresh”
+Select Experiment, Edit experiment, click “File” → “Refresh”
 
 New weather station Hastings, Florida, USA (UFHA) should appear in Weather Station list under “Fields”
 Edit remaining experimental settings as needed, save and run experiment with new weather file.

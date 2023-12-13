@@ -1,21 +1,16 @@
 
 ## Where to learn DSSAT? 
 
-[Annual DSSAT Workshop](https://dssat.net/training/upcoming-workshop/)
-
-Class at the University of Florida: ABE 6645C Computer Simulation of Crop Growth and Management Responses (taught in summer semester, includes the DSSAT Workshop)
-
-[Official DSSAT Youtube channel](https://www.youtube.com/@DSSATFoundation/featured)
+- [Annual DSSAT Workshop](https://dssat.net/training/upcoming-workshop/)
+- Class at the University of Florida: ABE 6645C Computer Simulation of Crop Growth and Management Responses (taught in summer semester, includes the DSSAT Workshop)
+- [Official DSSAT YouTube channel](https://www.youtube.com/@DSSATFoundation/featured)
 
 
+Other YouTube channels provide tutorials for various steps too, some examples linked:
 
-Other Youtube channels provide tutorials for various steps too, some examples linked:
-
-[Creation of Crop Management File](https://www.youtube.com/watch?v=M_UhpWI0Qoc)
-
-[Video Series by Matthew Harrison](https://www.youtube.com/@matthewharrison6233/search?query=dssat)Note that this also includes some video tutorials on another crop modeling software APSIM which do not apply to DSSAT. 
-
-[Video Series by Francisco Villalobos](https://www.youtube.com/playlist?list=PLqFNLfMhB3uT5JKopDcl2w_iTkRiLOH14)
+- [Creation of Crop Management File](https://www.youtube.com/watch?v=M_UhpWI0Qoc)
+- [Video Series by Matthew Harrison](https://www.youtube.com/@matthewharrison6233/search?query=dssat) Note that this also includes some video tutorials on another crop modeling software APSIM which do not apply to DSSAT. 
+- [Video Series by Francisco Villalobos](https://www.youtube.com/playlist?list=PLqFNLfMhB3uT5JKopDcl2w_iTkRiLOH14)
 
 
 ### Written Documentation
