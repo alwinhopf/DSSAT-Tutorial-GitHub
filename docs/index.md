@@ -9,8 +9,7 @@ General information about DSSAT can be found on the [DSSAT Website](https://dssa
 
 ## Learning resources for DSSAT
 
-[Where and How to Learn DSSAT](../src/site/notes/DSSAT-Tutorial-GitHub/docs/DSSAT%20Learning%20Resources/Where%20and%20How%20to%20Learn%20DSSAT.md)
-
+[Where and How to Learn DSSAT](DSSAT%20Learning%20Resources/Where%20and%20How%20to%20Learn%20DSSAT.md)
 
 ## DSSAT installation
 
