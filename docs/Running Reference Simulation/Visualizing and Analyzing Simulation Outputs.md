@@ -1,12 +1,13 @@
 DSSAT: run experiment, e.g. UFGA8201 rainfed low/high nitrogen
 
+Mark specific simulations under “Treatments” → click “Run” in GUI. “Simulations are Completed!” message should appear.
 ![](Pasted%20image%2020231213181859.png)
 
+![](Pasted%20image%2020231213192720.png)
+
 Select output files of interest, plot or view text file.
-
--        PlantGro = height, width, biomass growth
-
--        SoilNi and SoilNiBal = soil nitrogen balance
+- PlantGro = height, width, biomass growth
+- SoilNi and SoilNiBal = soil nitrogen balance
 
 ![](Pasted%20image%2020231213181906.png)
 
