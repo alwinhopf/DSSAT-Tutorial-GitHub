@@ -4,15 +4,21 @@ DSSAT → Crops → ‘‘Add New Crop’’
 ![](Pasted%20image%2020231213182314.png)
 
 Example for Hemp
+
 Crop Name: Hemp
+
 Crop Code: HM (check in crop_codes.csv in DSSAT main directory)
+
 Module Name: CRGRO
+
 Description: CRGRO-Hemp (will auto populate)
+
 DSSAT Tree Node: Fiber (group of crops it belongs to)
+
 
 → click save → should appear in DSSAT GUI. Note that you still need to copy the respective files of the new crop into the new “Crop Name” directory, including new genetic, weather and soil files as needed. 
 
-![](Pasted%20image%2020231213191921.png)
+![](Pasted%20image%2020231214122621.png)
 
 ![](Pasted%20image%2020231213192045.png) 
 
