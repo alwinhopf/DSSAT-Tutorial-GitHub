@@ -37,7 +37,7 @@ If you want to run DSSAT on a non-Windows system, via the command line, or read 
 
 [Import Weather Data](Setup%20Custom%20Simulation/Data%20Import%20and%20Management/Import%20Weather%20Data.md)
 
-[Import Observations](Setup%20Custom%20Simulation/Data%20Import%20and%20Management/Import%20Observations.md)
+[Import Observations (fileA and fileT)](Setup%20Custom%20Simulation/Data%20Import%20and%20Management/Import%20Observations%20(fileA%20and%20fileT).md)
 
 ### Adding a new crop type
 

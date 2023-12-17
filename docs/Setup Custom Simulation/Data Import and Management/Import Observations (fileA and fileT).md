@@ -22,9 +22,9 @@ Enter your observations into the table. Each in-season observation comes with a 
 
 ![](Pasted%20image%2020231119010109.png)
 
-Once finished: Delete unneeded rows (e.g. 2nd row with variable names if present) and columns. Double-check for empty cells (should be “-99” etc. à write into .T file via save or save-as function. Exit (confirm if saved).
+Once finished: Delete unneeded rows (e.g. 2nd row with variable names if present) and columns. Do not leave any rows with -99 headers as this can cause errors. Double-check for empty cells (should be “-99”) etc. → write into .T file via save or save-as function. Exit (confirm if saved).
 
-Back to DSSAT, Refresh experiment list and check data observation data shows up in “Data” tab
+Back to DSSAT, Refresh experiment list and check data observation data shows up in “Data” tab. You can plot and view your observations here separately, double-check for missing or erroneous entries (e.g. wrong date, outliers due to wrong conversion or missing comma etc.)
 
 ![](Pasted%20image%2020231119010044.png)
 
@@ -34,4 +34,11 @@ Back to DSSAT, Refresh experiment list and check data observation data shows up 
 
 ![](Pasted%20image%2020231119010055.png)
 
-You can also review and plot the observations. These observations will now be available in your simulation, to compared simulated and observed values.
+You can also review and plot the observations. These observations will now be available in your simulation, to compare simulated and observed values.
+
+Tip for easier processing: create a custom .csv file with only the headers you need, name the headers in the DSSAT acronym and import this file. You can use the “use current cell content as column header” function in AT create to quickly assign the columns then.  See example attached, note you need to remove the additional rows 1 and 2 when importing in AT create, they contain explanation of the variable names. 
+![](Pasted%20image%2020231217104843.png)
+
+![](Pasted%20image%2020231217105156.png)
+
+![](observations_fileT_example.csv)
