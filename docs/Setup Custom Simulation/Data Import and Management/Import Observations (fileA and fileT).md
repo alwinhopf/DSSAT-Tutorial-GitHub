@@ -42,3 +42,10 @@ Tip for easier processing: create a custom .csv file with only the headers you n
 ![](Pasted%20image%2020231217105156.png)
 
 ![](observations_fileT_example.csv)
+
+
+Potential Errors
+
+![](Pasted%20image%2020231219112606.png)
+
+![](Pasted%20image%2020231219112806.png)
