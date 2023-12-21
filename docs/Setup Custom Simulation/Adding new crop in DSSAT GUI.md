@@ -3,11 +3,11 @@ DSSAT → Crops → ‘‘Add New Crop’’
 
 ![](Pasted%20image%2020231213182314.png)
 
-Example for Hemp
+Example for Hemp - enter exactly as shown
 
 Crop Name: Hemp
 
-Crop Code: HM (check in crop_codes.csv in DSSAT main directory)
+Crop Code: HM (for other crops: check in crop_codes.csv in DSSAT main directory)
 
 Module Name: CRGRO
 
